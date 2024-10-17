@@ -46,7 +46,11 @@ _*I am a Full Stack Engineer , i have a interest in design and programming , tec
   </a>
   <a href="https://discord.gg/A6j5GfsG">
     <img src="https://skillicons.dev/icons?i=discord" />
-  </a><a href="https://github.com/reimiyake9012/whitenight1201">
+  </a>
+  <a href="https://www.linkedin.com/in/rei-miyake-5b8393333">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/reimiyake9012">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
