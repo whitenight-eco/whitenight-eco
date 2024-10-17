@@ -23,7 +23,7 @@ _*I am a Full Stack Engineer , i have a interest in design and programming , tec
 ### Comprehensive skill set
 
 <div>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,sequelize,redux,styledcomponents&perline=4" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,sequelize,redux,aws,.net" />
 </div>
 
 ### Familiar with
