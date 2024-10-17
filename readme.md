@@ -41,12 +41,12 @@ _*I am a Full Stack Engineer , i have a interest in design and programming , tec
 ## Socials
 
 <p>
-  <a href="whitenight1201021@gmail.com">
+  <a href="mailto:reimiyake9012@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://discord.gg/whitenight.1201">
+  <a href="https://discord.gg/A6j5GfsG">
     <img src="https://skillicons.dev/icons?i=discord" />
-  </a><a href="https://github.com/whitenight1201/whitenight1201">
+  </a><a href="https://github.com/reimiyake9012/whitenight1201">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
