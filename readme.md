@@ -17,25 +17,25 @@ _*I am a Full Stack Engineer , i have a interest in design and programming , tec
 ### Most comfortable with
 
 <div>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwindcss,typescript,express,nestjs,python,golang" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwindcss,typescript,nodejs,express,nestjs,laravel,python,django,flask,ai,java,golang,kotlin" />
 </div>
 
 ### Comprehensive skill set
 
 <div>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,sequelize,redux,aws,.net" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,kubernetes,sequelize,svelte,redux,apollo,graphql,nginx,solidity,.net,mysql,mongodb,postgres" />
 </div>
 
 ### Familiar with
 
 <div>
-    <img src="https://skillicons.dev/icons?i=docker,firebase&perline=4" />
+    <img src="https://skillicons.dev/icons?i=docker,firebase,aws,vercel&perline=4" />
 </div>
 
 ### Tools
 
 <div>
-    <img src="https://skillicons.dev/icons?i=vscode,bash,github,git,linux,vite,figma&perline=4" />
+    <img src="https://skillicons.dev/icons?i=vscode,bash,github,git,figma,androidstudio,notion" />
 </div>
 
 ## Socials
