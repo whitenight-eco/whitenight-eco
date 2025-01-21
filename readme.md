@@ -23,13 +23,13 @@ _*I am a Full Stack Engineer , i have a interest in design and programming , tec
 ### Comprehensive skill set
 
 <div>
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,kubernetes,sequelize,svelte,redux,apollo,graphql,nginx,solidity,.net,mysql,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,kubernetes,sequelize,svelte,redux,apollo,graphql,nginx,solidity,dotnet,mysql,mongodb,postgres" />
 </div>
 
 ### Familiar with
 
 <div>
-    <img src="https://skillicons.dev/icons?i=docker,firebase,aws,vercel&perline=4" />
+    <img src="https://skillicons.dev/icons?i=docker,firebase,aws,vercel,azure" />
 </div>
 
 ### Tools
